@@ -1,4 +1,4 @@
-
+Enhance AnyDesk for macOS with custom AnyDesk for macOS Script | multi-device-support + cross-platform-support, the #1 script. Includes multi-device-support and
 
 
 
